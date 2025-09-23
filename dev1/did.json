@@ -1,1 +1,23 @@
-{"assertionMethod":["did:web:marshmelloweranda.github.com:DID:dev1#key-0"],"service":[],"id":"did:web:marshmelloweranda.github.com:DID:dev1","verificationMethod":[{"publicKeyMultibase":"z6MkhPn6kfDyBPNxKwezsfGVmS3SwZtb1H4VGsf8wrmyfqDB","controller":"did:web:marshmelloweranda.github.com:DID:dev1","id":"did:web:marshmelloweranda.github.com:DID:dev1#key-0","type":"Ed25519VerificationKey2020","@context":"https://w3id.org/security/suites/ed25519-2020/v1"}],"@context":["https://www.w3.org/ns/did/v1"],"alsoKnownAs":[],"authentication":["did:web:marshmelloweranda.github.com:DID:dev1#key-0"]}
+{
+  "assertionMethod": [
+    "did:web:marshmelloweranda.github.io:DID:dev1#key-0"
+  ],
+  "service": [],
+  "id": "did:web:marshmelloweranda.github.io:DID:dev1",
+  "verificationMethod": [
+    {
+      "publicKeyMultibase": "z6MkmYaJUNAWJzxRHJvCkr5siXqvQGbHnAo5QiA6GikUV9qH",
+      "controller": "did:web:marshmelloweranda.github.io:DID:dev1",
+      "id": "did:web:marshmelloweranda.github.io:DID:dev1#key-0",
+      "type": "Ed25519VerificationKey2020",
+      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:marshmelloweranda.github.io:DID:dev1#key-0"
+  ]
+}

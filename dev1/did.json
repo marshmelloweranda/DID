@@ -6,7 +6,7 @@
   "id": "did:web:marshmelloweranda.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkjmSqMPQYqUeRvPH6HmUfJvm7ncay3gniuxEd9HRnVYUe",
+      "publicKeyMultibase": "z6MkmsUGTz7QPXj4L7U9mqntfmDewrKAAJRNKyCsHRgHNyio",
       "controller": "did:web:marshmelloweranda.github.io:DID:dev1",
       "id": "did:web:marshmelloweranda.github.io:DID:dev1#key-0",
       "type": "Ed25519VerificationKey2020",
